@@ -25,6 +25,7 @@ alias gl='$DOTLY_PATH/bin/dot git pretty-log'
 # Custom
 alias please='sudo $(fc -l -n -1)'
 alias bat='batcat'
+
 # Utils
 alias k='kill -9'
 alias i.='(idea $PWD &>/dev/null &)'
